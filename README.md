@@ -2,7 +2,7 @@
 
 A list of my favorite **design qotes** by some of the best product designers of all time.
 
-![](https://i.imgur.com/PyrALhJ.gifv)
+![](https://media.giphy.com/media/UTLRWjg5xbAnauuXpT/giphy.gif)
 
 ## Credits
 
