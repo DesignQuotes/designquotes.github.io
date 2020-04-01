@@ -2,7 +2,7 @@
 
 A list of my favorite **design qotes** by some of the best product designers of all time.
 
-![Preview](https://imgur.com/a/ZZ2mOLs)
+![Preview]
 
 ## Credits
 
@@ -14,4 +14,4 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-http://www.aslightdesign.com
+[Aleksandar-Stojanović] http://www.aslightdesign.com
