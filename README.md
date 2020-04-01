@@ -14,4 +14,4 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-[Aleksandar-Stojanović] http://www.aslightdesign.com
+![Aleksandar-Stojanović] http://www.aslightdesign.com
